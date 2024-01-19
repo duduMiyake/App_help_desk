@@ -5,7 +5,7 @@ Pequeno projeto para estudar e testar conhecimentos em PHP.
 
 ## Aprendizados
 
-Pratica de loops, condições, junção de PHP com HTML e outros fundamentos da linguagem.
+Pratica de loops, condições, implementação de PHP com HTML e outros fundamentos da linguagem.
 
 
 ## Stack utilizada
